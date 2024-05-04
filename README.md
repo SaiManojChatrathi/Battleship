@@ -17,7 +17,7 @@ Battleship is a two-player game where each player strategically places their shi
 ## How to Play:
 
 - Clone the repository to your local machine.
-- Run the battleship.py file to start the game.
+- Run the qlearning.py file to start the game.
 - Follow the on-screen instructions to place your ships and make moves.
 - Take turns guessing coordinates until all opponent's ships are sunk or vice versa.
 - Enjoy the strategic challenge and have fun playing Battleship!
